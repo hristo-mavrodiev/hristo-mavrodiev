@@ -1,7 +1,7 @@
 
 ### Hi there! 👋 
  
-My name is Hristo Mavrodiev. I'm currently learning Python. Working as a GIS Technician. 
+My name is Hristo Mavrodiev. I'm Junior Data Engineer based in Sofia, Bulgaria.
 
 [![h.mavrodiev Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hristo-mavrodiev-301669a7/)
 [![h.mavrodiev StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14620812/h-mavrodiev)
