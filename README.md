@@ -15,7 +15,6 @@ My name is Hristo Mavrodiev. I'm Junior Data Engineer based in Sofia, Bulgaria.
 ![](https://img.shields.io/badge/OS-Linux_Debian-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL/PostGIS-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-QGIS-informational?style=flat&logoColor=white&color=2bbc8a)
 
 
 ### 📫 Contacts:
